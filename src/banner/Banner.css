@@ -1,0 +1,36 @@
+.bannerWrapper {
+  padding: 2em 0;
+  background: linear-gradient(0deg, #fff 0%, #cdcccb 100%);
+  box-shadow: 0 1px 8px 3px #ccc;
+}
+
+.bannerTitle {
+  font-size: 3rem;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.highlightTxt {
+  color: #1b8bcc;
+}
+
+.btn {
+  background: #1b8bcc;
+  border-radius: 100px;
+  text-transform: uppercase;
+  padding: 0.3em 2em;
+  color: #fff;
+  display: inline-block;
+  margin-top: 2rem;
+  text-decoration: none;
+  border: 0;
+}
+
+.bannerMsg {
+  font-size: 1.5rem;
+}
+
+.bannerCTA {
+  text-align: left;
+  text-transform: uppercase;
+}
